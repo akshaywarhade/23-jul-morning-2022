@@ -15,7 +15,9 @@ public class Base
 	    driver = new ChromeDriver();
 	    
 	    
+	    
+	    
 		driver.get(utility.readdatafrompropertyfile("url"));
 		driver.manage().window().maximize();
-      }
+      }C:\Users\AITS\eclipse-workspace\NopCommerce
 }
