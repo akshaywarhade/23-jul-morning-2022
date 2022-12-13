@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Waiting for2000milis]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for2000milis]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for2000milis]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for2000milis]]>
+    </line>
+    <line>
+      <![CDATA[Tc ToCheckRegistraion is pass sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for2000milis]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for2000milis]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for2000milis]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for2000milis]]>
+    </line>
+    <line>
+      <![CDATA[Tc ToCheckRegistraion is pass sucessfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-05T12:11:45 IST" name="Suite" finished-at="2022-12-05T12:12:17 IST" duration-ms="32059">
+    <groups>
+    </groups>
+    <test started-at="2022-12-05T12:11:45 IST" name="chromebrower" finished-at="2022-12-05T12:12:06 IST" duration-ms="20927">
+      <class name="NopCommerceTest.CheckRegisterFunctionality">
+        <test-method is-config="true" signature="LaunchNopCommerce(java.lang.String)[pri:0, instance:NopCommerceTest.CheckRegisterFunctionality@74e28667]" started-at="2022-12-05T12:11:45 IST" name="LaunchNopCommerce" finished-at="2022-12-05T12:12:00 IST" duration-ms="14922" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchNopCommerce -->
+        <test-method signature="ToCheckRegistraion()[pri:0, instance:NopCommerceTest.CheckRegisterFunctionality@74e28667]" started-at="2022-12-05T12:12:00 IST" name="ToCheckRegistraion" finished-at="2022-12-05T12:12:03 IST" duration-ms="3268" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for2000milis]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for2000milis]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for2000milis]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for2000milis]]>
+            </line>
+            <line>
+              <![CDATA[Tc ToCheckRegistraion is pass sucessfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ToCheckRegistraion -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:NopCommerceTest.CheckRegisterFunctionality@74e28667]" started-at="2022-12-05T12:12:03 IST" name="closeBrowser" finished-at="2022-12-05T12:12:06 IST" duration-ms="2537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- NopCommerceTest.CheckRegisterFunctionality -->
+    </test> <!-- chromebrower -->
+    <test started-at="2022-12-05T12:12:06 IST" name="firefoxbrower" finished-at="2022-12-05T12:12:17 IST" duration-ms="11026">
+      <class name="NopCommerceTest.CheckRegisterFunctionality">
+        <test-method is-config="true" signature="LaunchNopCommerce(java.lang.String)[pri:0, instance:NopCommerceTest.CheckRegisterFunctionality@7e057f43]" started-at="2022-12-05T12:12:06 IST" name="LaunchNopCommerce" finished-at="2022-12-05T12:12:13 IST" duration-ms="7686" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchNopCommerce -->
+        <test-method signature="ToCheckRegistraion()[pri:0, instance:NopCommerceTest.CheckRegisterFunctionality@7e057f43]" started-at="2022-12-05T12:12:13 IST" name="ToCheckRegistraion" finished-at="2022-12-05T12:12:16 IST" duration-ms="3098" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for2000milis]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for2000milis]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for2000milis]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for2000milis]]>
+            </line>
+            <line>
+              <![CDATA[Tc ToCheckRegistraion is pass sucessfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ToCheckRegistraion -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:NopCommerceTest.CheckRegisterFunctionality@7e057f43]" started-at="2022-12-05T12:12:16 IST" name="closeBrowser" finished-at="2022-12-05T12:12:17 IST" duration-ms="231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- NopCommerceTest.CheckRegisterFunctionality -->
+    </test> <!-- firefoxbrower -->
+  </suite> <!-- Suite -->
+</testng-results>
