@@ -12,6 +12,10 @@ public class Base
 	public void LaunchNopCommerce() throws IOException
 	  {
 		
+		
+		
+		
+		
 		//launching Browser
 		System.setProperty("webdriver.chrome.driver", "C:\\\\Users\\\\AITS\\\\eclipse-workspace\\\\23Jul B Morning\\\\selenium-java-4.4.0\\\\chromedriver.exe");
 	    driver = new ChromeDriver();
