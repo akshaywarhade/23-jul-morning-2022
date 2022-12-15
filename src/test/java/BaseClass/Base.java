@@ -9,6 +9,8 @@ import NeostoxPOM.utility;
 
 public class Base
 {
+	
+	
 	protected static WebDriver driver;
 	public void LaunchBrowser() throws IOException
 	{
