@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Waiting for2000milis]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for2000milis]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for2000milis]]>
+    </line>
+    <line>
+      <![CDATA[Waiting for2000milis]]>
+    </line>
+    <line>
+      <![CDATA[Tc ToCheckRegistraion is pass sucessfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-16T11:19:17 IST" name="Suite" finished-at="2022-12-16T11:20:04 IST" duration-ms="47645">
+    <groups>
+    </groups>
+    <test started-at="2022-12-16T11:19:17 IST" name="Test" finished-at="2022-12-16T11:20:04 IST" duration-ms="47645">
+      <class name="NopCommerceTest.CheckRegisterFunctionality">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:NopCommerceTest.CheckRegisterFunctionality@46cdf8bd]" started-at="2022-12-16T11:19:17 IST" name="LaunchBrowser" finished-at="2022-12-16T11:19:50 IST" duration-ms="33083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="ToCheckRegistraion()[pri:0, instance:NopCommerceTest.CheckRegisterFunctionality@46cdf8bd]" started-at="2022-12-16T11:19:50 IST" name="ToCheckRegistraion" finished-at="2022-12-16T11:19:57 IST" duration-ms="6771" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting for2000milis]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for2000milis]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for2000milis]]>
+            </line>
+            <line>
+              <![CDATA[Waiting for2000milis]]>
+            </line>
+            <line>
+              <![CDATA[Tc ToCheckRegistraion is pass sucessfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ToCheckRegistraion -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:NopCommerceTest.CheckRegisterFunctionality@46cdf8bd]" started-at="2022-12-16T11:19:57 IST" name="closeBrowser" finished-at="2022-12-16T11:20:04 IST" duration-ms="7543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- NopCommerceTest.CheckRegisterFunctionality -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
